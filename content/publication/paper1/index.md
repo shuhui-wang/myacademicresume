@@ -6,7 +6,7 @@ authors:
 - Yujie Wang
 - Zhen Wang
 
-featured: false
+featured: true
 image:
   caption: 'Partial dependence plots of TN-CSAs on influencing factors'
 
@@ -25,6 +25,7 @@ tags:
 - Clustering
 - AnnAGNPS model
 - BMPs planning
+
 title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Revision submitted to journal)
 
 ---

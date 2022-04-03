@@ -1,52 +1,31 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Best management practices (BMPs) are being implemented to reduce non-point sources of pollution in China and worldwide, and the The effectiveness of individual BMPs is usually assessed through controlled experiments. Field evaluation of the effectiveness of a great majority of BMPs is limited by cost of implementation, site-specific response, and length of time needed to document reliable response. Non-point source pollution (NPS) models are increasingly relied upon to estimate water quality response to BMP implementation. This study has developed and tested a tool for estimating the effectiveness of BMPs in controlling NPS pollution by collecting and analyzing existing data from previous studies. It includes 60 BMPs grouped into six classes. Data from combined soil and slope analyses were used to design a BMP effectiveness estimator driven by hydrologic soil groups and slope classes using Visual Basic for Applications and Structured Query Language. This BMPs selection system was tested and validated for BMPs selection in the Three Gorges Reservoir Area. Results demonstrate that the tool can be served as an efficient and easy tool for identifying potentially useful BMPs in agricultural areas in China. Overall, this will also allow water environmental professionals to make more confident and accurate BMP recommendations and manage watersheds more effectively.
+
 authors:
+- Yunqi Wang
+- Zhen Wang
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Wendi Cui
+date: "2021-06-28T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'BMPs Selection System'
   focal_point: ""
   preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+
 publication_short: ""
 publication_types:
-- "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- "8"
+
+
+
 tags:
-- Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+- Best Management Practices
+- Non-Point Source Pollution
+- Cost-effective planning
+title: BMPs Selection System For Non-point Source Pollution Control in the Three Gorges Reservoir Area
+
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
