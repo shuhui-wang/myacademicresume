@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 50
 
 title: Skills
 subtitle:
@@ -16,18 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- icon: python
+  icon_pack: fab
+  name: Python
+- icon: github
+  icon_pack: fab
+  name: Github
+- icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- icon: globe
   icon_pack: fas
-  name: Photography
+  name: ArcGIS
+- icon: image
+  icon_pack: fas
+  name: Photoshop
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

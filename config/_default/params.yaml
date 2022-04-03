@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: forest
 day_night: true
 font: ''
 font_size: L
@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: shuhuiwang1005@gmail.com
-phone: +86 130 2002 0696
 address:
   street: NO.35 Qinghua East Road
   city: Beijing
@@ -30,27 +29,17 @@ address:
   country: China
   country_code: CN
 coordinates:
-  latitude: '40.0045'
-  longitude: '116.3500'
+  latitude: '40.00067'
+  longitude: '116.339'
 
-appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+
   - icon: skype
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Skype invite
+    link: 'https://join.skype.com/invite/rXednPbeT7Ao'
+ 
+ 
 
 # Site header
 
@@ -108,7 +97,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: square
 publications:
   date_format: January 2006
   citation_style: apa
@@ -154,4 +143,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true

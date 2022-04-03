@@ -1,53 +1,31 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Critical source areas (CSAs) are the priority locations for non-point source pollution (NPSP) control, and their spatial distribution is influenced by NPSP influencing factors. Therefore, identifying CSAs and the dominant NPSP influencing factors are important for NPSP research and control, while there is limited discussion in quantifying the nonlinear relationships between factors and the excessive pollutant loads in CSAs. In this study, CSAs were first identified based on the pollutant loads simulated by the AnnAGNPS model in a typical agricultural watershed in Three Gorges Reservoir region, and eight factors associated with the NPSP generation and transport processes were selected as the NPSP influencing factors. The boosted regression tree model was applied to quantify the contribution rate of each factor and the partial dependence plots were developed to visualize the non-linear relationships and the thresholds between factors and TN/TP loads in CSAs. Results revealed that land use has the largest contribution rate (37.35%) on TN-CSAs, followed by nitrogenous fertilizer (36.93%), and soil type (17.59%), while for TP-CSAs, phosphorus fertilizer (57.83%) ranked first in contribution rate, followed by land use type (25.03%) and soil type (13.70%). The sloping farmland and orchards, as well as certain soil types are positively correlated with CSAs, and TN/TP loads respond positively with increasing factor values before thresholds. In addition, the preliminary step of BMPs (Best Management Practices) planning was conducted based on the study results to select suitable BMPs with high ecological effectiveness. In general, this study identified the dominant NPSP influencing factor on CSAs, as well as the non-linear relationships and thresholds associated with the pollutant loads trends that managers should be aware of, which contribute to an in-depth understanding of NPSP mechanism and provide insights for NPSP control.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
-featured: true
+- Yunqi Wang
+- Yujie Wang
+- Zhen Wang
+
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+  caption: 'Partial dependence plots of TN-CSAs on influencing factors'
+
+
+
+publication: In *Ecological Indicators*
+
 publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- "2"
+
+
 tags:
-- Source Themes
-title: An example conference paper
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+- Non-point source pollution
+- Critical Source Areas
+- Boosted Regression Tree Model
+- Clustering
+- AnnAGNPS model
+- BMPs planning
+title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Revision submitted to journal)
+
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
