@@ -9,31 +9,31 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Technical Skills
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: r-project
-  icon_pack: fab
-  name: R
-- icon: python
-  icon_pack: fab
-  name: Python
-- icon: github
-  icon_pack: fab
-  name: Github
 - icon: chart-line
   icon_pack: fas
-  name: Statistics
-- icon: globe
-  icon_pack: fas
-  name: ArcGIS
+  name: Statistical Techniques
+- icon: python
+  icon_pack: fab
+  name: Coding
 - icon: image
   icon_pack: fas
-  name: Photoshop
+  name: Data Visualization
+- icon: pen
+  icon_pack: fas
+  name: Academic Writing
+- icon: chalkboard
+  icon_pack: fas
+  name: Presentation
+- icon: flask
+  icon_pack: fas
+  name: Experiments
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
