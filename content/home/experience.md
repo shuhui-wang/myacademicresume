@@ -31,15 +31,13 @@ experience:
     description: |2-
     
         Responsibilities：
-        * Project Planning and Development
+        * Project Development and Execution
         * Data Analysis
-        * Model Building (AnnAGNPS model, Watershed planning)
-        * Preparing Presentation 
+        * Model Building (AnnAGNPS Model, Watershed Planning)
+        * Presentation 
         
   - title: Tutor
     company: Innovation and Entrepreneurship Training Program for College Students (Application of Best Management Practices (BMPs) in a Typical Small Watershed in the Three Gorges Reservoir Area)
-    company_url: ''
-    company_logo:
     location: Beijing, Chongqing
     date_start: '2020-09-01'
     date_end: '2021-09-28'
@@ -53,8 +51,7 @@ experience:
     
   - title: Leader
     company: Innovation and Entrepreneurship Training Program for College Students (Research On Erosion Dynamics of Overland Flow Under Different Vegetation Spatial Patterns)
-    company_url: ''
-    company_logo: org-x
+
     location: Beijing 
     date_start: '2017-06-01'
     date_end: '2018-10-31'
