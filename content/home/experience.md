@@ -36,7 +36,7 @@ experience:
         * Model Building (AnnAGNPS Model, Watershed Planning)
         * Presentation 
         
-  - title: Tutor
+  - title: Academic Mentor
     company: Innovation and Entrepreneurship Training Program for College Students (Application of Best Management Practices (BMPs) in a Typical Small Watershed in the Three Gorges Reservoir Area)
     location: Beijing, Chongqing
     date_start: '2020-09-01'
