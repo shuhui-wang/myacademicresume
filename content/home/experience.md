@@ -31,10 +31,11 @@ experience:
     description: |2-
     
         Responsibilities：
-        * Project Development and Execution
-        * Field Experiment (BMPs construction and maintenance, water quality measurement), Data Collection (hydrologcial and Meteorological, et al.) and Analysis (Machine learning methods) 
-        * Model Building (semi-distributed Model for the study watershed, Boosted Regression Tree model, NSGA-II, NSGA-III, MOEA/D, et al.)
+        * Project development and execution
+        * Field Experiments (BMPs construction and maintenance, water quality measurement, etc.), data collection (hydrologcial, meteorological and soil property data, etc.) and analysis (machine learning methods, generalized linear model, etc.) 
+        * Model building (semi-distributed Model for the study watershed, Boosted Regression Tree model, NSGA-II, NSGA-III, MOEA/D, et al.)
         * Presentation for conferences 
+        * Report writing and revision
         
   - title: Academic Mentor
     company: Innovation and Entrepreneurship Training Program for College Students (Application of Best Management Practices (BMPs) in a Typical Small Watershed in the Three Gorges Reservoir Area)
@@ -45,10 +46,10 @@ experience:
       
       Responsibilities：
         * Provide academic guides to 6 undergraduate students
-        * Data Collection & Aggregation
-        * BMPs Selection System Building 
-        * Report Writing and Revision
-        * Software Copyright Application
+        * Data collection & aggregation
+        * BMPs selection system building (database and programming) 
+        * Report writing and revision
+        * Software copyright application
     
   - title: Leader
     company: Innovation and Entrepreneurship Training Program for College Students (Research On Erosion Dynamics of Overland Flow Under Different Vegetation Spatial Patterns)
@@ -57,13 +58,12 @@ experience:
     date_start: '2017-06-01'
     date_end: '2018-10-31'
     description: |2-
-      
       Responsibilities：
-        * Project Planning, Development and Deployment 
-        * Experiments Design, Management and Execution 
-        * Financial (Project Funds) Management
-        * Report Writing and Revision
-        * Presentation and Final Defense
+        * Project planning, development and deployment 
+        * Experiments design, management and execution 
+        * Financial (Project Funds) management
+        * Academic report writing and revision
+        * Presentation for the final defense
 
 design:
   columns: '2'
