@@ -49,7 +49,7 @@ experience:
         * Data collection & aggregation
         * BMPs selection system building (database and programming) 
         * Report writing and revision
-        * Software copyright application
+        * Software copyright application (paperwork preparation)
     
   - title: Leader
     company: Innovation and Entrepreneurship Training Program for College Students (Research On Erosion Dynamics of Overland Flow Under Different Vegetation Spatial Patterns)
