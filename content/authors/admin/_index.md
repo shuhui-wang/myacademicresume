@@ -37,7 +37,7 @@ title: Shuhui Wang
 
 Hi! Shuhui (Alex) here. Thank you for visiting my website!
 
-I am a M.S. Candidate in Soil and Water Conservation and Desertification Combating based at Beijing Forestry University (expected graduation: June 2022), advised by Prof. Yujie Wang and Yunqi Wang. Most of my work involves developing models and applying statistical techniques to solve watershed planning problems.
+I am a M.S. student in Soil and water conservation engineering at Beijing Forestry University (expected graduation time: June 2022) under the supervision of Prof. Yujie Wang and Yunqi Wang. Most of my work involves developing models and applying statistical techniques to solve watershed planning problems.
 
 My current research explores nonlinear relationships between influencing factors and non-point source pollution loads through machine learning methods (Random Forest, Clustering, etc.), as well as aims to find the optimal watershed planning with minimum cost and pollution loads by MOEAs.
 
