@@ -1,24 +1,25 @@
 ---
-bio: My research interests include Non-point source pollution (NPSP), Machine learning methods (Regression and Clustering), Multiobjective evolutionary algorithms (MOEAs), Semi-distributed hydrological models (SWAT and AnnAGNPS).
+bio: My research interest is applying machine learning methods (Regression and Clustering), multiobjective evolutionary algorithms (MOEAs) and semi-distributed hydrological models (SWAT and AnnAGNPS) to control non-point source pollution (NPSP) control and contribute to watershed planning
 education:
   courses:
-  - course: MS in Soil and Water Conservation
+  - course: Master of Science in Soil and Water Conservation
     institution: Beijing Forestry University
-    year: 2022
-  - course: BS in Soil and Water Conservation
+    year: Expected June 2022
+  - course: Bachelor of Science in Soil and Water Conservation
     institution: Beijing Forestry University
-    year: 2019
+    year: June 2019
 email: "shuhuiwang1005@gmail.com"
 highlight_name: true
 interests:
-- Semi-distributed Modelling
-- Non-point Source Pollution and Watershed Planning
-- Machine Learning (Regression and Clustering)
-- Multi-Objective Evolutionary Algorithms (MOEAs)
+- Practical Watershed Management and Watershed Planning
+- Non-point Source Pollution Control and Best Management Practices
+- Hydrological Processes Response to LUCC, Human Activities and Climate Change 
+- Statistical Methodology (Machine Learning) Application and Improvement in Geoscience
+- Hydrological/Non-point Source Pollution Models Application and Improvement
 organizations:
 - name: Beijing Forestry University
   url: http://english.bjfu.edu.cn/
-role: M.S. Candidate
+role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,11 +38,11 @@ title: Shuhui Wang
 
 Hi! Shuhui (Alex) here. Thank you for visiting my website!
 
-I am a M.S. student in Soil and water conservation engineering at Beijing Forestry University (expected graduation time: June 2022) under the supervision of Prof. Yujie Wang and Yunqi Wang. Most of my work involves developing models and applying statistical techniques to solve watershed planning problems.
+I am a graduate student in Soil and water conservation engineering at Beijing Forestry University (expected graduation: June 2022) under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves developing models and statistical techniques for solving problems in the non-point source pollution control and watershed planning.
 
-My current research explores nonlinear relationships between influencing factors and non-point source pollution loads through machine learning methods (Random Forest, Clustering, etc.), as well as aims to find the optimal watershed planning with minimum cost and pollution loads by MOEAs.
+My current study explores nonlinear relationships between influencing factors and non-point source pollution loads through machine learning methods (Random Forest, Clustering, etc.) and search the thresholds of influencing factors that watershed managers should be aware of. In addition, I also study on watershed planning problem by several state-to-art multiobjecitve evolutionary algorithms (NSGA-II, NSGA-III, MOEA/D).
 
-Prior to being qualified as a graduate student, my major research was investigating the spatial-temporal heterogeneity and driving factors of runoff and sediment load variations in the Three Gorges Reservoir Region, China.
+Prior to being qualified as a graduate student, my study emphasized on investigating the spatial and temporal heterogeneity and driving factors of runoff and sediment load variations in the Three Gorges Reservoir Region, China.
 
 
 
