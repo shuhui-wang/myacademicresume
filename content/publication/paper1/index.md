@@ -23,7 +23,7 @@ date: "2022-03-12T00:00:00Z"
 tags:
 - Non-point Source Pollution and Best Management Practices
 - Critical Source Areas
-- Machine learning methods (Random Forest and Clustering)
+- Machine learning methods (Regression and Clustering)
 - Semi-distributed Hydrologcial/Non-point Source Pollution Model (AnnAGNPS)
 - Watershed Management and Planing
 

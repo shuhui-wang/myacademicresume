@@ -22,20 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Member 
-    company: National Key R&D Program of China (Research on the technology of Best Management Practices in Non-point Source Pollution in Three Gorges Reservoir Area (2017YFC0505303))
+  - title: Full-time Student Researcher
+    company: National Key R&D Program of China (Best Management Practices for Non-point Source Pollution Control in the Three Gorges Reservoir Region (2017YFC0505303))
     company_url: ''
     location: Beijing, Chongqing, Hubei
     date_start: '2018-11-01'
     date_end: '2021-10-15'
     description: |2-
     
-        Responsibilities：
-        * Project development and execution
-        * Field Experiments (BMPs construction and maintenance, water quality measurement, etc.), data collection (hydrologcial, meteorological and soil property data, etc.) and analysis (machine learning methods, generalized linear model, etc.) 
-        * Model building (semi-distributed Model for the study watershed, Boosted Regression Tree model, NSGA-II, NSGA-III, MOEA/D, et al.)
-        * Presentation for conferences 
-        * Report writing and revision
+        Watershed Planning for Non-point Source Pollution Control
+        * Designed 60 Best Management Practice (BMPs) scenarios for non-point source pollution control, and developed a BMPs database comprising the ecological effectiveness and costs
+        * Built multi-objective evolutionary algorithms (NSGA-II, NSGA-III, MOEA/D) to find the optimal watershed planning and compared the performance of three algorithms in multi-objectives watershed planning problem. The average cost of proposed watershed planning is nearly 50% that of unoptimized planning for the same ecological objective
+        * Authored the research manuscript, which has been submitted to the journal (under review)
+        * Delivered presentations on the comprehensive strategy on non-point source pollution research and control system to graduate students
+        
+        Assessment of influencing factors on non-point source pollution critical source areas
+        * Collected spatial and attribute data (runoff, soil property, land use, meteorological, etc.), develop a semi-distributed model (AnnAGNPS) for the study watershed and identified the critical source areas of non-point source pollution
+        * Applied machine learning method (Boosted Regression Tree Model) to identify the dominant influencing factors on critical source areas as well as the non-linear relationships and thresholds associated with the non-point pollution loads variations that watershed managers should be aware of
+        * Adopted clustering analysis for critical source areas further classification and proposed suitable BMPs scenarios for decision makers
+        * Authored the research manuscript, which has been submitted to the journal (under review)
         
   - title: Academic Mentor
     company: Innovation and Entrepreneurship Training Program for College Students (Application of Best Management Practices (BMPs) in a Typical Small Watershed in the Three Gorges Reservoir Area)
