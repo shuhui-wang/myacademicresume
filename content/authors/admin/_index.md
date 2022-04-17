@@ -12,11 +12,10 @@ email: "shuhuiwang1005@gmail.com"
 highlight_name: true
 interests:
 - Watershed Planning and Management
-- Best Management Practices For Non-point Source Pollution Control
-- Dynamics of Non-point Source Pollution and its Correlation With Environmental and Anthropogenic Factors
-- Application and Development of Statistical Machine Learning Methods in Geoscience
+- Non-point Source Pollution Control
+- Statistical Machine Learning Methods in Geoscience
 - Hydrological Processes Response to LUCC, Human Activities and Climate Change 
-- Application and Improvement of Hydrological/Non-point Source Pollution Models
+- Hydrological/Non-point Source Pollution Models
 organizations:
 - name: Beijing Forestry University
   url: http://english.bjfu.edu.cn/
