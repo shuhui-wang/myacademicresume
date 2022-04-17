@@ -17,16 +17,17 @@ publication: In *Ecological Indicators*
 publication_types:
 - "2"
 
+date: "2022-03-12T00:00:00Z"
+
 
 tags:
-- Non-point source pollution
+- Non-point Source Pollution and Best Management Practices
 - Critical Source Areas
-- Boosted Regression Tree Model
-- Clustering
-- AnnAGNPS model
-- BMPs planning
+- Machine learning methods (Random Forest and Clustering)
+- Semi-distributed Hydrologcial/Non-point Source Pollution Model (AnnAGNPS)
+- Watershed Management and Planing
 
-title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Revision submitted to journal)
+title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Under Review)
 
 ---
 

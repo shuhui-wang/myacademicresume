@@ -1,5 +1,5 @@
 ---
-bio: My research interest is applying machine learning methods (Regression and Clustering), multiobjective evolutionary algorithms (MOEAs) and semi-distributed hydrological models (SWAT and AnnAGNPS) to control non-point source pollution (NPSP) control and contribute to watershed planning
+bio: My study interests are 1) watershed planning and management; 2) studying on non-point source pollution mechanism and control method; 3) applying and developing statistical methodology (especially machine learning) in the Geoscience; 4) studying on how hydrological processes response to LUCC, human activities and climate change; 5) applying and modifying hydrological/non-point source pollution models in practical watershed planning problems.
 education:
   courses:
   - course: Master of Science in Soil and Water Conservation
@@ -11,11 +11,11 @@ education:
 email: "shuhuiwang1005@gmail.com"
 highlight_name: true
 interests:
-- Practical Watershed Management and Watershed Planning
+- Watershed Planning and Management
 - Non-point Source Pollution Control and Best Management Practices
+- Application and Improvement of Statistical Methodology (Machine Learning) in Geoscience
 - Hydrological Processes Response to LUCC, Human Activities and Climate Change 
-- Statistical Methodology (Machine Learning) Application and Improvement in Geoscience
-- Hydrological/Non-point Source Pollution Models Application and Improvement
+- Application and Improvement of Hydrological/Non-point Source Pollution Models
 organizations:
 - name: Beijing Forestry University
   url: http://english.bjfu.edu.cn/

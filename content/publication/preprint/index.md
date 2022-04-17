@@ -1,5 +1,5 @@
 ---
-abstract: The purpose of the present invention is to provide a construction method for a vegetation buffer with optimized water flow path, which is beneficial for runoff velocity and surface scouring reduction. Specifically, the removal of agricultural surface pollutants by plants is enhanced by constructing small recessed ecological filter ponds to increase the residence time of water in the buffer.
+abstract: This study provides a novel construction method of vegetated buffer stripes with the aim of optimizing flow routing and reducing runoff velocity and surface scouring, where the ecological efficiency (efficiency of reducing non-point source pollution) of the vegetated buffer stripes is improved by constructing small recessed ecological vegetation ponds.
 authors:
 - Yunqi Wang
 - Jing Fu
@@ -27,7 +27,7 @@ tags:
 - Non-point source pollution
 - Best Management Practice
 - Vegetated Buffer Stripe
-title: The Construction Method for Vegetated Buffer Stripe With Optimized Flow Routing
+title: The Construction Method of Vegetated Buffer Stripes for Optimized Flow Routing
 
 ---
 

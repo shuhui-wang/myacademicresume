@@ -24,9 +24,10 @@ publication_types:
 
 
 tags:
-- Statistical Eigenvalue of Runoff and Sediment 
-- Tendency and Mutation Analysis
-- Relationship between runoff and sediment  
+- Tendency and Mutation Analysis of Runoff and Sediment Loads
+- Hydrologcial Processes Response to Climate Change and Human Activities
+- Three Gorges Reservoir Region
+- Quantitative Analysis
 
 title: Change analysis of runoff and sediment in the Three Gorges Reservoir Region in recent 16 years (in Chinese with English abstract)
 

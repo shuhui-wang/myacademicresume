@@ -16,13 +16,15 @@ publication: In *Journal of Environmental Management*
 publication_types:
 - "2"
 
+date: "2022-03-07T00:00:00Z"
 
 tags:
-- Non-point source pollution (NPSP)
-- Best management practices (BMPs) Planning
-- Critical source areas (CSAs)
+- Non-point source pollution Control
+- Best Management Practices (BMPs) Scenarios
+- Watershed Planning and Management
 - Multi-objective optimization problem (MOP)
 - Multi-objective evolutionary algorithms (MOEAs)
+
 
 title: Performance Comparison of Multi-Objective Evolutionary Algorithms Applied to BMPs Planning Problem (Under Review)
 
