@@ -31,45 +31,53 @@ experience:
     description: |2-
     
         Watershed Planning for Non-point Source Pollution Control
-        * Designed 60 Best Management Practice (BMPs) scenarios for non-point source pollution control, and developed a BMPs database comprising the ecological effectiveness and costs
-        * Built multi-objective evolutionary algorithms (NSGA-II, NSGA-III, MOEA/D) to find the optimal watershed planning and compared the performance of three algorithms in multi-objectives watershed planning problem. The average cost of proposed watershed planning is nearly 50% that of unoptimized planning for the same ecological objective
+        * Designed 60 Best Management Practice (BMPs) scenarios for non-point source pollution control and developed a database comprising the ecological effectiveness and costs of each BMPs scenario
+        * Built multi-objective evolutionary algorithms (MOEAs: NSGA-II, NSGA-III, MOEA/D) to find the watershed planning with optimal ecological-economical effectiveness, compared the performance of MOEAs in multi-objectives watershed planning problem. for the same ecological objective, The watershed plans proposed in this study cost nearly 50% those of unoptimized watershed planning
         * Authored the research manuscript, which has been submitted to the journal (under review)
-        * Delivered presentations on the comprehensive strategy on non-point source pollution research and control system to graduate students
+        * Delivered presentations on non-point source pollution study and watershed planning to graduate students
         
         Assessment of influencing factors on non-point source pollution critical source areas
-        * Collected spatial and attribute data (runoff, soil property, land use, meteorological, etc.), develop a semi-distributed model (AnnAGNPS) for the study watershed and identified the critical source areas of non-point source pollution
-        * Applied machine learning method (Boosted Regression Tree Model) to identify the dominant influencing factors on critical source areas as well as the non-linear relationships and thresholds associated with the non-point pollution loads variations that watershed managers should be aware of
-        * Adopted clustering analysis for critical source areas further classification and proposed suitable BMPs scenarios for decision makers
+        * Collected spatial and attribute data (runoff, soil property, land use and meteorological data, etc.), developed a semi-distributed model (AnnAGNPS) for the study watershed and identified the critical source areas of non-point source pollution
+        * Applied statistical machine learning method (Boosted Regression Tree) to identify the dominant NPSP influencing factors of critical source areas as well as the non-linear relationships and thresholds associated with the pollutant loads that watershed managers should be aware of
+        * Adopted cluster analysis for critical source areas further classification and proposed suitable BMPs scenarios for decision makers
         * Authored the research manuscript, which has been submitted to the journal (under review)
         
+        Experimental Research on the Ecological Effectiveness of Vegetated Buffer Stripes
+        * Assembled experiment apparatus, cultivated vegetation and collected water samples in the field experiments, measured water quality indicators in the laboratory
+        * Quantified the reduction rate of vegetated buffer stripes on sediment, total nitrogen and total phosphorus, identified the optimal width of stripe and vegetation type for non-point source pollution control in the Three Gorges Reservoir Region
+        * Co-authored the research manuscript, which has been published
+        * Co-designed a construction method of vegetated buffer stripes, which is particularly beneficial for non-point source pollution control in sloping areas. This method has been published as a patent
         
-  - title: Academic Mentor
-    company: Innovation and Entrepreneurship Training Program for College Students (Application of Best Management Practices (BMPs) in a Typical Small Watershed in the Three Gorges Reservoir Area)
+        Analysis of Runoff and Sediment loads variations in the Three Gorges Reservoir Region
+        * Collected runoff and sediment data of the Yangtze River in the Three Gorges Reservoir Region (2002-2017), applied Mann-Kendall test and Double Cumulative Curve to analyze the trends and mutation points of long-term runoff and sediment loads
+        * Quantified the average contribution rates of human activity and climate change factors to runoff and sediment loads variation, which further validated the ecological impact of the construction of Three Gorges Dam
+        * Authored, revised the research manuscript, which has been published
+        
+  - title: Teaching Assistant
+    company: Innovation and Entrepreneurship Training Program for College Students (BMPs Selection System For Non-point Spurce Pollution Control)
     location: Beijing, Chongqing
     date_start: '2020-09-01'
     date_end: '2021-09-28'
     description: |2-
       
       Responsibilities：
-        * Provide academic guides to 6 undergraduate students
-        * Data collection & aggregation
-        * BMPs selection system building (database and programming) 
-        * Report writing and revision
-        * Software copyright application (paperwork preparation)
+        * Advised 6 undergraduate student on their research project. The study focuses on developing an efficient and simple tool for identifying potentially useful BMPs for non-point source pollution control, which provides data support for decision makers and is beneficial for watershed planning
+        * Presented short teaching sessions and made a tutorial on the basic functionalities of the AnnAGNPS model, and how to use it to evaluate the ecological effectiveness of management practices
+        * Helped to prepare and revise application materials and presentations for the final defense
+        * Supervised an undergraduate student and co-developed the BMPs selection system software
     
   - title: Leader
-    company: Innovation and Entrepreneurship Training Program for College Students (Research On Erosion Dynamics of Overland Flow Under Different Vegetation Spatial Patterns)
+    company: Innovation and Entrepreneurship Training Program for College Students (Study on the Soil Erosion Resistance Characteristics of Different Vegetation Pattern)
 
     location: Beijing 
     date_start: '2017-06-01'
     date_end: '2018-10-31'
     description: |2-
       Responsibilities：
-        * Project planning, development and deployment 
-        * Experiments design, management and execution 
-        * Financial (Project Funds) management
-        * Academic report writing and revision
-        * Presentation for the final defense
+        * Designed the research project, drafted and revised the application materials
+        * Delivered a presentation and raised funding (5k yuan) for the research project 
+        * Organized experiments, assembled experiment apparatus, collected sediment samples and measured sediment loads during every experiment
+        * Wrote a comprehensive experimental report, drafted a research manuscript, delivered a presentation on the experimental results of the study to academic advisors
 
 design:
   columns: '2'
