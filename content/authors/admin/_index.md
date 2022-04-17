@@ -1,5 +1,5 @@
 ---
-bio: My study interests are 1) watershed planning and management; 2) studying on non-point source pollution mechanism and control method; 3) applying and developing statistical methodology (especially machine learning) in the Geoscience; 4) studying on how hydrological processes response to LUCC, human activities and climate change; 5) applying and modifying hydrological/non-point source pollution models in practical watershed planning problems.
+bio: My study interests are 1) watershed planning and developing practical control methods for non-point source pollution control; 2) exploring the dynamics of non-point source pollution and its correlation with environmental and anthropogenic factors; 3) applying and developing statistical machine learning methodology in the Geoscience; 4) studying on how hydrological processes response to LUCC, human activities and climate change; 5) applying and modifying hydrological/non-point source pollution models in practical watershed planning problems.
 education:
   courses:
   - course: Master of Science in Soil and Water Conservation
@@ -12,8 +12,9 @@ email: "shuhuiwang1005@gmail.com"
 highlight_name: true
 interests:
 - Watershed Planning and Management
-- Non-point Source Pollution Control and Best Management Practices
-- Application and Improvement of Statistical Methodology (Machine Learning) in Geoscience
+- Best Management Practices For Non-point Source Pollution Control
+- Dynamics of Non-point Source Pollution and its Correlation With Environmental and Anthropogenic Factors
+- Application and Development of Statistical Machine Learning Methods in Geoscience
 - Hydrological Processes Response to LUCC, Human Activities and Climate Change 
 - Application and Improvement of Hydrological/Non-point Source Pollution Models
 organizations:

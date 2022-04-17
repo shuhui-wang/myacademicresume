@@ -42,6 +42,7 @@ experience:
         * Adopted clustering analysis for critical source areas further classification and proposed suitable BMPs scenarios for decision makers
         * Authored the research manuscript, which has been submitted to the journal (under review)
         
+        
   - title: Academic Mentor
     company: Innovation and Entrepreneurship Training Program for College Students (Application of Best Management Practices (BMPs) in a Typical Small Watershed in the Three Gorges Reservoir Area)
     location: Beijing, Chongqing
