@@ -32,7 +32,7 @@ experience:
     
         Watershed Planning for Non-point Source Pollution Control
         * Designed 60 Best Management Practice (BMPs) scenarios for non-point source pollution control and developed a database comprising the ecological effectiveness and costs of each BMPs scenario
-        * Built multi-objective evolutionary algorithms (MOEAs: NSGA-II, NSGA-III, MOEA/D) to find the watershed planning with optimal ecological-economical effectiveness, compared the performance of MOEAs in multi-objectives watershed planning problem. for the same ecological objective, The watershed plans proposed in this study cost nearly 50% those of unoptimized watershed planning
+        * Built multi-objective evolutionary algorithms (MOEAs: NSGA-II, NSGA-III, MOEA/D) to find the watershed planning with optimal ecological-economical effectiveness, compared the performance of MOEAs in multi-objectives watershed planning problem. For the same ecological objective, The watershed plans proposed in this study cost nearly 50% those of unoptimized watershed planning
         * Authored the research manuscript, which has been submitted to the journal (under review)
         * Delivered presentations on non-point source pollution study and watershed planning to graduate students
         
