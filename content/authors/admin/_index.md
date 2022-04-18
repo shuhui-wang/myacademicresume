@@ -40,7 +40,7 @@ Hi! Shuhui (Alex) here. Thank you for visiting my website!
 
 I am a graduate student in Soil and water conservation engineering at Beijing Forestry University (expected graduation: June 2022) under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves developing models and statistical techniques for solving problems in the non-point source pollution control and watershed planning.
 
-My current study explores the non-point source pollution characteristics through statistical machine learning methods (Regression Tree, Clustering, etc.) and investigate the non-linear relationships and thresholds of influencing factors that watershed managers should be aware of. In addition, I study watershed planning with optimal ecologcial-economical effectiveness through several advanced multi-objecitve evolutionary algorithms (NSGA-II, NSGA-III, MOEA/D).
+My current study explores the non-point source pollution characteristics through statistical machine learning methods (Regression Tree, Clustering, etc.) and investigate the non-linear relationships and thresholds of influencing factors that watershed managers should be aware of. In addition, I did watershed planning with optimal ecologcial-economical effectiveness through several advanced multi-objecitve evolutionary algorithms (NSGA-II, NSGA-III, MOEA/D).
 
 Prior to being qualified as a graduate student, my study focused on investigating the spatial and temporal heterogeneity and driving factors of runoff and sediment load variations in the Three Gorges Reservoir Region, China.
 
