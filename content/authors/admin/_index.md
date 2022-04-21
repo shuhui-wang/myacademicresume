@@ -13,9 +13,9 @@ highlight_name: true
 interests:
 - Watershed Planning and Management
 - Non-point Source Pollution Control
-- Statistical Machine Learning Methods in Geoscience
-- Hydrological Processes Response to LULC, Human Activities and Climate Change 
-- Hydrological/Non-point Source Pollution Models
+- Machine Learning & Data Mining in Geoscience
+- Hydrological Responses to LULC, Human Activities and Climate Change 
+- Hydrologic & Non-point Source Pollution Modeling
 organizations:
 - name: Beijing Forestry University
   url: http://english.bjfu.edu.cn/
