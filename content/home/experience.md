@@ -49,7 +49,7 @@ experience:
         * Co-designed a construction method of vegetated buffer stripes, which is particularly beneficial for non-point source pollution control in sloping areas. This method has been published as a patent
         
         Analysis of Runoff and Sediment loads variations in the Three Gorges Reservoir Region
-        * Collected runoff and sediment data of the Yangtze River in the Three Gorges Reservoir Region (2002-2017), applied Mann-Kendall test and Double Cumulative Curve to analyze the trends and mutation points of long-term runoff and sediment loads
+        * Collected runoff and sediment data of the Yangtze River in the Three Gorges Reservoir Region (2002-2017), applied Mann-Kendall test, Double Cumulative Curve, and wavelet analysis to explore the trends and mutation points of long-term runoff and sediment loads
         * Quantified the average contribution rates of human activity and climate change factors to runoff and sediment loads variation, which further validated the ecological impact of the construction of Three Gorges Dam
         * Authored, revised the research manuscript, which has been published
         
