@@ -1,5 +1,5 @@
 ---
-bio: My study interests are 1) watershed planning and developing practical control methods for non-point source pollution control; 2) exploring the dynamics of non-point source pollution and its correlation with environmental and anthropogenic factors; 3) applying and developing statistical machine learning methodology in the Geoscience; 4) studying on how hydrological processes response to LULC, human activities and climate change; 5) applying and modifying hydrological/non-point source pollution models in practical watershed planning problems.
+bio: My study interests are 1) Watershed planning and non-point source pollution control; 2) The dynamics of non-point source pollution and its response to influencing factors; 3) Machine Learning and Data Mining in Geoscience; 4）Hydrological responses to LULC, human activities and climate change; 5) Hydrological/ non-point source pollution models
 education:
   courses:
   - course: Master of Science in Soil and Water Conservation
