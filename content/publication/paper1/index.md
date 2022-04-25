@@ -27,7 +27,7 @@ tags:
 - Semi-distributed Hydrologcial/Non-point Source Pollution Model (AnnAGNPS)
 - Watershed Management and Planning
 
-title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Under Review)
+title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Revise! Wish me luck :)
 
 ---
 
