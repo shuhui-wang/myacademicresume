@@ -26,7 +26,7 @@ tags:
 - Multi-objective evolutionary algorithms (MOEAs)
 
 
-title: Performance Comparison of Multi-Objective Evolutionary Algorithms Applied to BMPs Planning Problem (Under Review)
+title: Performance Comparison of Multi-Objective Evolutionary Algorithms Applied to BMPs Planning Problem (Now Revising... Wish me luck!!!!!!:)
 
 ---
 

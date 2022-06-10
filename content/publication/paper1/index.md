@@ -1,5 +1,5 @@
 ---
-abstract: Critical source areas (CSAs) are the priority locations for non-point source pollution (NPSP) control, and their spatial distribution is influenced by NPSP influencing factors. Therefore, identifying CSAs and the dominant NPSP influencing factors are important for NPSP research and control, while there is limited discussion in quantifying the nonlinear relationships between factors and the excessive pollutant loads in CSAs. In this study, CSAs were first identified based on the pollutant loads simulated by the AnnAGNPS model in a typical agricultural watershed in Three Gorges Reservoir region, and eight factors associated with the NPSP generation and transport processes were selected as the NPSP influencing factors. The boosted regression tree model was applied to quantify the contribution rate of each factor and the partial dependence plots were developed to visualize the non-linear relationships and the thresholds between factors and TN/TP loads in CSAs. Results revealed that land use has the largest contribution rate (37.35%) on TN-CSAs, followed by nitrogenous fertilizer (36.93%), and soil type (17.59%), while for TP-CSAs, phosphorus fertilizer (57.83%) ranked first in contribution rate, followed by land use type (25.03%) and soil type (13.70%). The sloping farmland and orchards, as well as certain soil types are positively correlated with CSAs, and TN/TP loads respond positively with increasing factor values before thresholds. In addition, the preliminary step of BMPs (Best Management Practices) planning was conducted based on the study results to select suitable BMPs with high ecological effectiveness. In general, this study identified the dominant NPSP influencing factor on CSAs, as well as the non-linear relationships and thresholds associated with the pollutant loads trends that managers should be aware of, which contribute to an in-depth understanding of NPSP mechanism and provide insights for NPSP control.
+abstract: Critical Source Areas (CSAs) are areas that contribute disproportionate high levels of non-point source (NPS) pollution to receiving waters, and their occurrence is the result of the complex interaction between the factors related to the sources and transport processes of NPS pollution. A systematic understanding of how these influencing factors affect CSAs is essential for successful watershed management. In this study, we applied a statistical data mining technique boosted regression tree model to quantify the contribution of eight influencing factors (soil type, slope, elevation, RUSLE LS factor, RUSLE K factor, runoff, fertilizer application rate and land use) on two types of CSAs (TN-CSAs and TP-CSAs), as well as the marginal effects and potential thresholds of influencing factors on the occurrence of CSAs. Results show that land use (37.35%, 25.03%), fertilizer application (36.93%, 57.83%) and soil type (17.59%, 13.70%) have higher importance in determining the occurrence of TN-CSAs and TP-CSAs; and the incidence of TN-CSAs is positively correlated with most factors before the threshold for each influencing factor, after which the marginal effect largely level off or drop slightly; TP-CSAs have essentially the same characteristics as TN-CSAs, but TP-CSAs are more likely to occur in areas with an annual runoff of around 244.92 mm. In addition, this study discussed the application of machine learning techniques in predicting CSAs under climate change without physical-based models, as well as a preliminary watershed management planning for NPS pollution control in the study watershed. These results provided important information for nutrient management regulations.
 authors:
 - admin
 - Yunqi Wang
@@ -8,7 +8,7 @@ authors:
 
 featured: true
 image:
-  caption: 'Partial dependence plots of TN-CSAs on influencing factors'
+  caption: 'Partial dependence plots of the incidence of TN-CSAs on influencing factors'
 
 
 
@@ -21,13 +21,12 @@ date: "2022-03-12T00:00:00Z"
 
 
 tags:
-- Non-point Source Pollution and Best Management Practices
-- Critical Source Areas
-- Statistical Machine Learning Methods (Regression and Clustering)
-- Semi-distributed Hydrologcial/Non-point Source Pollution Model (AnnAGNPS)
-- Watershed Management and Planning
+- Non-point Source Pollution, Critical Source Areas
+- Machine Learning Techniques (Regression and Clustering)
+- Semi-distributed Hydrologcial and Water Quality Model (HWQ model, AnnAGNPS)
+- Watershed Planning for Non-point Source Pollution Control
 
-title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Revising... wish me luck :)
+title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Still Revising... really a substantive revision...PLEASE PLEASE Accpet!!!!!!! :)
 
 ---
 
