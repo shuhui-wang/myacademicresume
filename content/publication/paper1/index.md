@@ -26,7 +26,7 @@ tags:
 - Semi-distributed Hydrologcial and Water Quality Model (HWQ model, AnnAGNPS)
 - Watershed Planning for Non-point Source Pollution Control
 
-title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Still Revising... really a substantive revision...PLEASE PLEASE Accpet!!!!!!! :)
+title: Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed (Accpet !)
 
 ---
 
