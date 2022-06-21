@@ -18,7 +18,6 @@ image:
 
 
 publication: In *Science of Soil and Water Conservation (In Chinese)*
-publication_short: In *STC*
 publication_types:
 - "2"
 
