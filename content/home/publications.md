@@ -8,7 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 25
-title: Patents and Software Copyright
+title: Other Publications
 subtitle: ''
 
 content:

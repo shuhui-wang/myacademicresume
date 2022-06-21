@@ -4,7 +4,7 @@ education:
   courses:
   - course: Master of Science in Soil and Water Conservation
     institution: Beijing Forestry University
-    year: Expected June 2022
+    year: June 2022
   - course: Bachelor of Science in Soil and Water Conservation
     institution: Beijing Forestry University
     year: June 2019
