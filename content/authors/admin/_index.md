@@ -36,7 +36,7 @@ superuser: true
 title: Shuhui Wang
 ---
 
-Hi! Shuhui (Alex) here. Thank you for visiting my website!
+Hi! Shuhui (Jesse) here. Thank you for visiting my website!
 
 I am a graduate student in Soil and water conservation engineering at Beijing Forestry University (expected graduation: June 2022) under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves developing models and statistical techniques for solving problems in the non-point source pollution control and watershed planning.
 
