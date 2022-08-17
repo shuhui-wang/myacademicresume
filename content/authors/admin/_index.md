@@ -1,5 +1,5 @@
 ---
-bio: My study interests are 1) Watershed planning and non-point source pollution control; 2) The dynamics of non-point source pollution and its response to influencing factors; 3) Machine Learning and Data Mining in Geoscience; 4）Hydrological responses to LULC, human activities and climate change; 5) Hydrological/ non-point source pollution models
+bio: My study interests are 1) Watershed management and decision support for non-point source pollution control; 2) Machine Learning and Data Mining in Geoscience (e.g., simulation-based optimization framework, fuzzy programming, surrogate modeling); 3）Hydrological responses to LULC, human activities and climate change; 4) Hydrological/ waters quality models (HWQ) models 
 education:
   courses:
   - course: Master of Science in Soil and Water Conservation
@@ -15,7 +15,7 @@ interests:
 - Non-point Source Pollution Control
 - Machine Learning & Data Mining in Geoscience
 - Hydrological Responses to LULC, Human Activities and Climate Change 
-- Hydrologic & Non-point Source Pollution Modeling
+- Hydrologic & Water qualtiy Modeling 
 organizations:
 - name: Beijing Forestry University
   url: http://english.bjfu.edu.cn/
@@ -38,9 +38,9 @@ title: Shuhui Wang
 
 Hi! Shuhui (Jesse) here. Thank you for visiting my website!
 
-I am a graduate student in Soil and water conservation engineering at Beijing Forestry University (expected graduation: June 2022) under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves developing models and statistical techniques for solving problems in the non-point source pollution control and watershed planning.
+I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves developing models and statistical techniques for solving problems in non-point source pollution control and watershed management.
 
-My current study explores the non-point source pollution characteristics through statistical machine learning methods (Regression Tree, Clustering, etc.) and investigate the non-linear relationships and thresholds of influencing factors that watershed managers should be aware of. In addition, I did watershed planning with optimal ecologcial-economical effectiveness through several advanced multi-objecitve evolutionary algorithms (NSGA-II, NSGA-III, MOEA/D).
+My current study explores the non-point source pollution characteristics through statistical machine learning methods (Regression Tree, Clustering, etc.) and investigate the non-linear relationships and potential thresholds of influencing factors that watershed managers should be aware of. In addition, the performance of several MOEAs in real-world watershed management problem was compared and further applied to search cost-effective watershed management strategies through a simulation-based optimization framework.
 
 Prior to being qualified as a graduate student, my study focused on investigating the spatial and temporal heterogeneity and driving factors of runoff and sediment load variations in the Three Gorges Reservoir Region, China.
 
