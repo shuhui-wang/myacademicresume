@@ -1,5 +1,5 @@
 ---
-abstract: Agricultural Non-point source pollution (NPSP) is considered as a major contributor to water quality impairment worldwide, and fortunately, best management practices (BMPs) can effectively reduce their generation and migration to receiving water bodies. In general, BMPs planning within a watershed needs to satisfy conflicting objectives simultaneously, including obtaining the maximum pollution reduction possibility and minimum cost, making it a multi-objective problem (MOP). Multi-objective evolutionary algorithms (MOEAs) have proven their efficiency in solving real-world MOPs, and NSGA-II is one of the most widely used MOEAs which is usually applied in combination with hydrological or NPSP models to search for optimal BMPs planning. However, some newly proposed MOEAs have been shown to be effective in solving three-objective optimization problems, and they can find higher-quality solutions for MOPs. By combining with the BMPs database developed by the NPSP model AnnAGNPS for a typical agricultural watershed in the Three Gorges Reservoir Region (TGRR), this study compared the performance of three state-of-the-art MOEAs (domination-based NSGA-II, decomposition-based MOEA/D and domination-decomposition combined NSGA-III) to find the optimal MOEA for the three-objective BMPs planning problem. The result shows that NSGA-II outperformed other MOEAs in terms of the scalability and uniform distribution of its solutions set, and its solutions were further classified into different cost categories to suit decision makers’ preferences. This study provides guidance for decision makers in choosing appropriate MOEAs and optimal control parameter settings for BMPs planning problem, and the solutions with optimal ecological-economical effectiveness can be extended to similar watersheds in the TGRR to control agricultural NPSP.
+abstract: Simulation-based optimization (S-O) frameworks are effective in developing cost-effective watershed management strategies, where the selection of optimization algorithm and parameter settings greatly influence the quality of strategies. Despite the development and improvement of multi-objective evolutionary algorithms (MOEAs) provide more alternatives for optimization and improve the efficiency in finding robust solutions, they typically have limited applications in real-world decision contexts. In this study, we compared and quantified the performance of NSGA-II, MOEA/D and NSGA-III in a real-world watershed management problem with the objectives of minimizing TN and TP losses at minimal cost, and the searching behavior of MOEAs under different parameter settings was evaluated quantitatively. Results show that higher crossover or mutation probabilities do not necessarily promote convergence and diversity in the solution set, while a larger generation and population size will assist in finding high-quality solutions. Furthermore, statistical results show that NSGA-II is advantageous in finding the solution set with good convergence and diversity while providing more decision options at the same computational cost, and the average cost of the NSGA-II optimized strategies is 32.22% (47.83%) of the commonly used targeting strategies to achieve the same TN (TP) reduction target. In addition, this study also discussed the development of resilient watershed management to buffer the impacts of climate change on aquatic system, the incorporation of fuzzy programming in the S-O framework to develop robust watershed management strategies under uncertainty, and the application of machine learning-based surrogate modeling to reduce the high computational cost in the S-O framework. These results can contribute to the understanding of MOEAs and provide guidance to decision makers to reach practical and cost-effective watershed management strategies.
 authors:
 - admin
 - Yunqi Wang
@@ -8,7 +8,7 @@ authors:
 
 featured: true
 image:
-  caption: 'The near Pareto optimal fronts for sensitivity analysis of NSGA-II control parameters'
+  caption: 'Fig. 6. Solution sets with different parameter settings'
 
 
 
@@ -16,7 +16,7 @@ publication: In *Journal of Environmental Management*
 publication_types:
 - "2"
 
-date: "2022-03-07T00:00:00Z"
+date: "2022-08-12T00:00:00Z"
 
 tags:
 - Non-point source pollution Control
@@ -26,7 +26,7 @@ tags:
 - Multi-objective evolutionary algorithms (MOEAs)
 
 
-title: Performance Comparison of Multi-Objective Evolutionary Algorithms Applied to BMPs Planning Problem (Now Revising... Wish me luck!!!!!!:)
+title: Comparison of Multi-Objective Evolutionary Algorithms applied to watershed management problem (Now revision submitted to journal... Wish me luck!!!!!!:)
 
 ---
 
