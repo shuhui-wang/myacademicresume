@@ -40,9 +40,9 @@ Hi! Shuhui (Jesse) here. Thank you for visiting my website!
 
 I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves developing models and statistical techniques for solving problems in non-point source pollution control and watershed management.
 
-My current study explores the non-point source pollution characteristics through statistical machine learning methods (Regression Tree, Clustering, etc.) and investigate the non-linear relationships and potential thresholds of influencing factors that watershed managers should be aware of. In addition, the performance of several MOEAs in real-world watershed management problem was compared and further applied to search cost-effective watershed management strategies through a simulation-based optimization framework.
+My current study explores the non-point source pollution characteristics through statistical machine learning methods (Regression Tree, Clustering, etc.) and investigate the non-linear relationships and potential thresholds of influencing factors that watershed managers should be aware of. In addition, cost-effective watershed management strategies were explored through a simulation-based optimization framework, where the performance of several advanced MOEAs were compared.
 
-Prior to being qualified as a graduate student, my study focused on investigating the spatial and temporal heterogeneity and driving factors of runoff and sediment load variations in the Three Gorges Reservoir Region, China.
+Prior to being qualified as a graduate student, my study focused on investigating the spatial and temporal heterogeneity of runoff and sediment load in the Three Gorges Reservoir Region, China.
 
 
 
