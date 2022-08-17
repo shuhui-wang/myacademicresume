@@ -1,21 +1,21 @@
 ---
-bio: My study interests are 1) Watershed management and decision support for non-point source pollution control; 2) Machine Learning and Data Mining in Geoscience (e.g., simulation-based optimization framework, fuzzy programming, surrogate modeling); 3）Hydrological responses to LULC, human activities and climate change; 4) Hydrological/ waters quality models (HWQ) models 
+bio: My study interests are 1) Machine Learning and Data Mining in Geoscience (e.g., simulation-based optimization framework, fuzzy programming, surrogate modeling); 2) Watershed management and decision support for non-point source pollution control; 3）Hydrological responses to LULC, human activities and climate change; 4) Hydrological/ waters quality (HWQ) models
 education:
   courses:
-  - course: Master of Science in Soil and Water Conservation
+  - course: M.S. in Soil and Water Conservation Engineering
     institution: Beijing Forestry University
     year: June 2022
-  - course: Bachelor of Science in Soil and Water Conservation
+  - course: B.S. in Soil and Water Conservation Engineering
     institution: Beijing Forestry University
     year: June 2019
 email: "shuhuiwang1005@gmail.com"
 highlight_name: true
 interests:
-- Watershed Planning and Management
-- Non-point Source Pollution Control
 - Machine Learning & Data Mining in Geoscience
+- Watershed Planning and Management
+- Hydrologic & Water quality Modeling 
 - Hydrological Responses to LULC, Human Activities and Climate Change 
-- Hydrologic & Water qualtiy Modeling 
+
 organizations:
 - name: Beijing Forestry University
   url: http://english.bjfu.edu.cn/
