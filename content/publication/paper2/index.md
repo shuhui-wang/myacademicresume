@@ -19,11 +19,11 @@ publication_types:
 date: "2022-08-12T00:00:00Z"
 
 tags:
-- Non-point source pollution Control
-- Best Management Practices (BMPs) Scenarios
-- Watershed Planning and Management
-- Multi-objective optimization problem (MOP)
+- Non-point source pollution
 - Multi-objective evolutionary algorithms (MOEAs)
+- Watershed Planning and Management
+- Decision Support
+
 
 
 title: Comparison of Multi-Objective Evolutionary Algorithms applied to watershed management problem (Now revision submitted to journal... Wish me luck!!!!!!:)
