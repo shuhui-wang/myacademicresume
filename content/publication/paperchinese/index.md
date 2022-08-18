@@ -28,7 +28,7 @@ tags:
 - Three Gorges Reservoir Region
 - Quantitative Analysis
 
-title: Change analysis of runoff and sediment in the Three Gorges Reservoir Region in recent 16 years (in Chinese with English abstract)
+title: Change analysis of runoff and sediment in the Three Gorges Reservoir Region in recent 16 years
 
 ---
 
