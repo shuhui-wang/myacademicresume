@@ -30,29 +30,29 @@ experience:
     date_end: '2022-04-30'
     description: |2-
     
-        Developing watershed management strategies for non-point Source Pollution reduction
-        * Designed 60 Best Management Practice (BMPs) scenarios and developed a database comprising the ecological effectiveness and costs of each BMPs scenario
-        * Developed a simulation-based optimization framework to search the cost-effective watershed management strategies, and compared the performance of several advanced MOEAs.The optimized strategies are remarkably less costly than the commonly used targeting strategies in terms of achieving the same pollutant reduction target.
-        * Authored the research manuscript, which has been revised and submitted to the journal (under review)
-        * Delivered presentations on non-point source pollution and watershed management for international graduate students (2022-5-16)
+        Developing watershed management strategies to reduce non-point source pollution
+        * Developed 60 Best Management Practice (BMP) scenarios and a database on their effectiveness and costs
+        * Developed a simulation-based optimization framework to search the cost-effective watershed management strategies, compared the performance of several advanced MOEAs in the framework. The optimized strategies have a significantly lower cost per unit of pollutant reduction than the commonly used targeting strategies.
+        * Delivered a presentation on non-point source pollution and watershed management to international graduate students (2022-5-16)
+        * First-authored the research manuscript, which has been revised and submitted to the journal
        
         
         Assessment of influencing factors on non-point source pollution critical source areas
-        * Collected spatial and attribute data (runoff, soil property, land use and meteorological data, etc.), developed a semi-distributed model (AnnAGNPS) for the study watershed and identified the critical source areas of non-point source pollution
-        * Applied statistical machine learning technique to identify the dominant NPSP influencing factors, as well as the non-linear relationships and thresholds associated with the pollutant loads that watershed managers should be aware of
-        * Adopted cluster analysis for classification and proposed suitable BMP scenarios for decision makers
-        * Authored the research manuscript, which has been published
+        * Collected spatial and attribute data of the study watershed (runoff, soil property, land use and meteorological data, etc.), applied a semi-distributed model (AnnAGNPS) to identify the critical source areas
+        * Applied statistical machine learning technique to identify the dominant influencing factors of critical source areas, explored the non-linear relationships and potential that may cause great changes in pollution losses that watershed managers should be aware of
+        * Filtered a set of suitable BMPs to reduce non-point source pollution for decision makers
+        * First-authored the research manuscript, which has been published
         
-        Experimental Research on the Ecological Effectiveness of Vegetated Buffer Stripes
-         * Assembled experiment apparatus, cultivated vegetation and collected water samples in the field experiments, measured water quality indicators in the laboratory
-        * Quantified the reduction rate of vegetated buffer stripes on sediment, total nitrogen and total phosphorus, identified the optimal width of stripe and vegetation type for non-point source pollution control in the Three Gorges Reservoir Region
+        Experimental Research on the Effectiveness of Vegetated Buffer Stripes
+         * Assembled experiment apparatus, cultivated vegetation and collected water samples in the field experiments, measured water quality in the laboratory
+        * Quantified the reduction rate of vegetated buffers on sediment, total nitrogen and total phosphorus, identified the optimal width of stripe and vegetation type for non-point source pollution reduction in the Three Gorges Reservoir Region
         * Co-authored the research manuscript, which has been published
-        * Co-designed a construction method of vegetated buffer stripes, which is particularly beneficial for non-point source pollution reduction in sloping areas. This method has been published as a patent
+        * Co-designed a construction method for constructing vegetated buffer stripes in sloping areas, which has been published as a patent
         
-        Analysis of Runoff and Sediment loads variations in the Three Gorges Reservoir Region
-        * Collected runoff and sediment data of the Yangtze River in the Three Gorges Reservoir Region (2002-2017), applied Mann-Kendall test, Double Cumulative Curve, and wavelet analysis to explore the trends and mutation points of long-term runoff and sediment loads
-        * Quantified the average contribution rates of human activity and climate change factors to runoff and sediment loads variation, which further validated the ecological impact of the construction of Three Gorges Dam
-        * Authored, revised the research manuscript, which has been published
+        Analysis of Runoff and Sediment variations in the Three Gorges Reservoir Region
+        *  Analyzed long-term (2002-2017) runoff and sediment loads for the Yangtze River in the Three Gorges Reservoir Region using Mann-Kendall test and Double Cumulative Curve
+        * Quantified the impact of human activity and climate change on runoff and sediment, which further validated the ecological impact of the Three Gorges Dam
+        * First-authored the research manuscript, which has been published
         
   - title: Teaching Assistant
     company: Innovation and Entrepreneurship Training Program for College Students (BMPs Selection System For Non-point Spurce Pollution Control)
@@ -63,9 +63,9 @@ experience:
       
       Responsibilities：
       
-        * Advised 6 undergraduate student on their research project. The study focuses on developing an efficient and simple tool for identifying potentially useful BMPs for non-point source pollution control, which provides data support for decision makers
-        * Presented short teaching sessions and made a tutorial on the basic functionalities of the AnnAGNPS model, and how to use it to evaluate the reduction effectiveness of BMPs
-        * Helped to prepare and revise application materials and presentations for the final defense
+        * Advised 6 undergraduate student on their research project. This study focuses on developing an efficient and simple tool to identify useful BMPs for non-point source pollution reduction, and provides their construction costs for decision makers
+        * Presented short teaching sessions and tutorial on the AnnAGNPS model setup
+        * Prepared and revised the application materials and made the presentation for final defense
         * Supervised an undergraduate student and co-developed the BMPs selection system software
     
   - title: Leader
@@ -77,10 +77,10 @@ experience:
     description: |2-
       Responsibilities：
  
-        * Designed the research project, drafted and revised the application materials
-        * Delivered a presentation and raised funding (5k yuan) for the project 
+        * Designed the research project. This study focuses on exploring the soil erosion resistance features of different vegetation pattern in sloping areas
+        * Drafted and revised the application materials, delivered a presentation and raised funding (5k yuan) for the project
         * Organized experiments, assembled experiment apparatus, collected sediment samples and measured sediment loads after every experiment
-        * Wrote the comprehensive experimental report, drafted a research manuscript and made the final defense
+        * Wrote a comprehensive experimental report, drafted the research manuscript and presented the final defense
 
 design:
   columns: '2'
