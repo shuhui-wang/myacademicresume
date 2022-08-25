@@ -77,9 +77,9 @@ experience:
     description: |2-
       Responsibilities：
  
-        * Designed the research project. This study focuses on exploring the soil erosion resistance features of different vegetation pattern in sloping areas
+        * Designed the research project. This study focuses on exploring the effects of different vegetation patterns on soil erosion in sloping areas
         * Drafted and revised the application materials, delivered a presentation and raised funding (5k yuan) for the project
-        * Organized experiments, assembled experiment apparatus, collected sediment samples and measured sediment loads after every experiment
+        * Organized experiments, assembled experiment apparatus (cultivated grass on a soil-bed experimental flume), collected sediment samples and measured sediment loads after every experiment
         * Wrote a comprehensive experimental report, drafted the research manuscript and presented the final defense
 
 design:
