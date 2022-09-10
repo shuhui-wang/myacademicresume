@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Full-time Student Researcher
-    company: National Key R&D Program of China (Best Management Practices for Non-point Source Pollution Control in the Three Gorges Reservoir Region (2017YFC0505303))
+    company: National Key R&D Program of China (2017YFC0505303)
     company_url: ''
     location: Beijing, Chongqing, Hubei
     date_start: '2018-11-01'
