@@ -21,7 +21,7 @@ feature:
   name: Statistical Techniques
 - icon: python
   icon_pack: fab
-  name: Coding
+  name: Coding (python/R)
 - icon: image
   icon_pack: fas
   name: Data Visualization
