@@ -1,5 +1,5 @@
 ---
-bio: My study interests are 1) Machine Learning and Data Mining in Geosciences or remote sensing (e.g., simulation-based optimization framework, fuzzy programming, surrogate modeling); 2) Development of robust watershed management strategies and decision support; 3）Hydrological responses to LULC, human activities and climate change; 4) Hydrological/ waters quality (HWQ) models
+bio: My study interests are 1) Machine Learning and Data Mining in Geosciences & remote sensing (e.g., simulation-based optimization framework, fuzzy programming, surrogate modeling); 2) Development of robust watershed management strategies and decision support; 3）Hydrological responses to LULC, human activities and climate change; 4) Hydrological/ waters quality (HWQ) models
 education:
   courses:
   - course: M.S. in Soil and Water Conservation Engineering
@@ -41,8 +41,7 @@ title: Shuhui Wang
 
 Hi! Shuhui (Jesse) here. Thank you for visiting my website!
 
-I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves developing robust watershed management strategies by ML techniques.
-
+I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves using ML techniques to explore the relationships between environmental stressors and runoff, non-point source pollution, and to develop robust watershed management strategies to combat non-point source pollution.
 
 My recent study explored the characteristics of non-point source pollution through ML methods (Regression Tree, Clustering, etc.) and investigated non-linear relationships and potential thresholds that watershed managers should be aware of. I also presented a simulation-based optimization framework that includes a hydrological & water quality model (AnnAGNPS) and multi-objective optimization algorithm to develop cost-effective watershed management strategies, and I compared the performance of several advanced MOEAs applied to a real-world multi-objecitve watershed management problem.
 
