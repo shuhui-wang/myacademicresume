@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Beijing Forestry University
   url: http://english.bjfu.edu.cn/
-role: M.S.
+role: MS
 social:
 - icon: envelope
   icon_pack: fas
