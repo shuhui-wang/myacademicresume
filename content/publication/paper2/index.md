@@ -27,7 +27,7 @@ tags:
 
 
 
-title: Comparison of Multi-Objective Evolutionary Algorithms applied to watershed management problem (Accepted)
+title: Comparison of Multi-Objective Evolutionary Algorithms applied to watershed management problem
 
 ---
 
