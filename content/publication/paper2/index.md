@@ -17,7 +17,8 @@ publication: In *Journal of Environmental Management*
 publication_types:
 - "2"
 
-date: "2022-09-09 T00:00:00Z"
+date: "2022-10-06 T00:00:00Z"
+doi: "10.1016/j.jenvman.2022.116255"
 
 tags:
 - Non-point source pollution
