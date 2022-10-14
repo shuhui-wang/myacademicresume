@@ -14,7 +14,8 @@ interests:
 - Machine Learning & Data Mining in water resources
 - Watershed management and decision support
 - Hydrological Responses to LULC, Human Activities and Climate Change 
-- Hydrologic & Water quality Modeling 
+- Hydrologic & Water quality Modeling
+- Decision Making Under Uncertainty 
 
 organizations:
 - name: Beijing Forestry University
@@ -26,15 +27,15 @@ social:
   link: /#contact
 - display:
     header: true
-- icon: github
-  icon_pack: fab
-  link: https://github.com/shuhui-wang
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.cn/injobs/in/shuhui-wang-82aa2a21b
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=k-1InIEAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Shuhui-Wang-20
+- icon: github
+  icon_pack: fab
+  link: https://github.com/shuhui-wang
 superuser: true
 title: Shuhui Wang
 ---
