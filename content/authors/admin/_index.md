@@ -12,10 +12,11 @@ email: "shuhuiwang1005@gmail.com"
 highlight_name: true
 interests:
 - Machine Learning & Data Mining in water resources
+- Uncertainty Assessment and Qualification 
 - Watershed management and decision support
 - Hydrological Responses to LULC, Human Activities and Climate Change 
 - Hydrologic & Water quality Modeling
-- Decision Making Under Uncertainty 
+
 
 organizations:
 - name: Beijing Forestry University
@@ -40,7 +41,7 @@ superuser: true
 title: Shuhui Wang
 ---
 
-Hi! Shuhui (Jesse) here. Thank you for visiting my website!
+Hi! Shuhui (淑慧) here. Thank you for visiting my website!
 
 I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves using ML techniques to explore the relationships between environmental stressors and runoff, non-point source pollution, and to develop robust watershed management strategies to combat non-point source pollution.
 
