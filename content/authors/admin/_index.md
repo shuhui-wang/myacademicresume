@@ -11,11 +11,11 @@ education:
 email: "shuhuiwang1005@gmail.com"
 highlight_name: true
 interests:
-- Machine Learning & Data Mining in water resources
-- Uncertainty Assessment and Qualification 
-- Watershed management and decision support
+- Machine Learning & Data Mining in Water Resources
 - Hydrological Responses to LULC, Human Activities and Climate Change 
-- Hydrologic & Water quality Modeling
+- Uncertainty Assessment and Qualification 
+- Watershed Management and Decision Support
+- Hydrologic & Water Quality Modeling
 
 
 organizations:
@@ -41,13 +41,13 @@ superuser: true
 title: Shuhui Wang
 ---
 
-Hi! Shuhui (淑慧) here. Thank you for visiting my website!
+Hi! Shuhui (Jesse) here. Thank you for visiting my website!
 
-I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. Most of my work involves using ML techniques to explore the relationships between environmental stressors and runoff, non-point source pollution, and to develop robust watershed management strategies to combat non-point source pollution.
+I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. My work involves using ML techniques to explore the relationships between environmental stressors and runoff, non-point source pollution, and to develop robust watershed management strategies resilient to climate change. 
 
-My recent study explored the characteristics of non-point source pollution through ML methods (Regression Tree, Clustering, etc.) and investigated non-linear relationships and potential thresholds that watershed managers should be aware of. I also presented a simulation-based optimization framework that includes a hydrological & water quality model (AnnAGNPS) and multi-objective optimization algorithm to develop cost-effective watershed management strategies, and I compared the performance of several advanced MOEAs applied to a real-world multi-objecitve watershed management problem.
+My recent studies have explored the characteristics of non-point source pollution using ML methods (Regression Tree, Clustering, etc.) and investigated non-linear relationships and potential thresholds that watershed managers should be aware of. Furthermore, a simulation-based optimization framework that includes a hydrological & water quality model (AnnAGNPS) and multi-objective optimization algorithm (MOEAs) was developed to make cost-effective watershed management strategies, and several advanced MOEAs have been evaluated for this framework.
 
-Prior to being qualified as a graduate student, my study focused on investigating the spatial and temporal heterogeneity of runoff and sediment loads in the Three Gorges Reservoir Region in China.
+During undergraduate years, my study focused on investigating the spatiotemporal heterogeneity of runoff and sediment loads in the Three Gorges Reservoir Region in China.
 
 
 
