@@ -47,7 +47,7 @@ I am a graduate student in Soil and water conservation engineering at Beijing Fo
 
 My recent studies have explored the characteristics of non-point source pollution using ML methods (Regression Tree, Clustering, etc.) and investigated non-linear relationships and potential thresholds that watershed managers should be aware of. Furthermore, a simulation-based optimization framework that includes a hydrological & water quality model (AnnAGNPS) and multi-objective optimization algorithm (MOEAs) was developed to make cost-effective watershed management strategies, and several advanced MOEAs have been evaluated for this framework.
 
-During undergraduate years, my study focused on investigating the spatiotemporal heterogeneity of runoff and sediment loads in the Three Gorges Reservoir Region in China.
+During undergraduate years, I studied the spatiotemporal heterogeneity of runoff and sediment loads in the Three Gorges Reservoir Region in China.
 
 
 
