@@ -80,7 +80,7 @@ experience:
     description: |2-
       Responsibilities：
  
-        * Conceptualized the research and developed the theoretical framework
+        * Conceptualized the research and developed the framework
         * Designed the research project. This study focuses on exploring the effectivenss of different vegetation patterns on soil erosion in sloping areas
         * Drafted and revised the application materials, delivered a presentation and raised funding (5k RMB) for the project
         * Designed experiments, assembled experiment setups (cultivated grass on a soil-bed experimental flume), collected sediment samples and measured sediment loads
