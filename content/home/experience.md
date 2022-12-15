@@ -33,9 +33,9 @@ experience:
         Developing watershed management strategies to reduce non-point source pollution
         * Conceptualized the research and developed the theoretical framework
         * Designed 60 Best Management Practice (BMP) scenarios and developed a database for watershed management
-        * Developed a simulation-based optimization framework to search cost-effective watershed management strategies and compared the performance of several advanced MOEAs applied to a real-world muli-objective optimization problem. The average cost of optimized strategies is 32.22% or 47.83% of the commonly used strategies.
+        * Developed a simulation-based optimization framework to search cost-effective watershed management strategies and compared the performance of several advanced MOEAs applied to a real-world muli-objective optimization problem. The average cost of optimized strategies is 32.22% or 47.83% of the commonly used strategies
         * Delivered a presentation on non-point source pollution studies and watershed management to international graduate students (2022-5-16)
-        * First-authored the research manuscript, which has been accepted (Journal of Environmental Management)
+        * First-authored the research manuscript, which was published
        
         
         Assessment of influencing factors on non-point source pollution critical source areas
@@ -43,32 +43,33 @@ experience:
         * Collected spatial and attribute data of the study watershed (runoff, soil property, land use and meteorological data, etc.), applied a semi-distributed model (AnnAGNPS) to identify the critical source areas
         * Applied machine learning technique to identify the dominant influencing factors of critical source areas, explored the non-linear relationships and potential thresholds that may cause great changes in pollution losses
         * Filtered a set of suitable BMPs to reduce non-point source pollution for decision makers
-        * First-authored the research manuscript, which has been published (Ecological Indicators)
+        * First-authored the research manuscript, which was published
         
         Research on quantifying the effectiveness of vegetated buffer stripes
         * Assembled experiment apparatus, cultivated vegetation and collected water samples in the field experiments, measured water quality in the laboratory
         * Quantified the reduction rate of vegetated buffers on sediment, total nitrogen and total phosphorus, identified the optimal width of stripe and vegetation type for non-point source pollution reduction in the Three Gorges Reservoir Region
-        * Co-authored the research manuscript, which has been published
-        * Co-designed a construction method for constructing vegetated buffer stripes in sloping areas, which has been published as a patent
+        * Co-authored the research manuscript, which was published
+        * Co-designed a technique for constructing vegetated buffer stripes in sloping areas, which was published as a patent
         
         Analysis of runoff and sediment variations in the Three Gorges Reservoir Region
-        * Analyzed long-term (2002-2017) runoff and sediment loads for the Yangtze River in the Three Gorges Reservoir Region using Mann-Kendall test and Double Cumulative Curve
-        * Quantified the impact of human activity and climate change on runoff and sediment, which further validated the ecological impact of the Three Gorges Dam
-        * First-authored the research manuscript, which has been published
+        * Conceptualized the research and developed the theoretical framework
+        * Analyzed long-term (2002-2017) runoff and sediment loads changes in the Three Gorges Reservoir Region using Mann-Kendall test and Double Cumulative Curve
+        * Quantified the impact of human activity and climate change on runoff and sediment
+        * First-authored the research manuscript, which was published
         
-  - title: Teaching Assistant
+  - title: Graduate Assistant
     company: Innovation and Entrepreneurship Training Program for College Students
     location: Beijing, Chongqing
-    date_start: '2020-09-01'
-    date_end: '2021-09-28'
+    date_start: '2020-06-01'
+    date_end: '2021-08-28'
     description: |2-
       
       Responsibilities：
       
-        * Advised 6 undergraduate students on a research project. This research focuses on developing an efficient model to identify practical BMPs to reduce non-point source pollution, and to calculate their construction costs for decision makers
-        * Presented short teaching sessions on hydrological and pollutant modeling by AnnAGNPS
-        * Prepared and revised the application materials and made the presentation for final defense
-        * Supervised an undergraduate student and co-developed the BMPs selection system software
+        * Supervised 6 undergraduate students on their research project. This study focuses on developing an efficient software to filter practical BMPs to reduce non-point source pollution, and to calculate their construction costs for decision makers
+        * Made presentations on remote sensing and hydrological & water quality modeling
+        * Prepared and revised the application materials, made the presentation for final defense
+        * Co-developed the BMPs selection system software, which was registered and licensed 
     
   - title: Team Leader
     company: Innovation and Entrepreneurship Training Program for College Students 
@@ -81,9 +82,9 @@ experience:
  
         * Conceptualized the research and developed the theoretical framework
         * Designed the research project. This study focuses on exploring the effectivenss of different vegetation patterns on soil erosion in sloping areas
-        * Drafted and revised the application materials, delivered a presentation and raised funding (5k yuan) for the project
-        * Designed experiments, assembled experiment apparatus (cultivated grass on a soil-bed experimental flume), collected sediment samples and measured sediment loads
-        * Wrote a comprehensive experimental report, drafted the research manuscript and made the final defense
+        * Drafted and revised the application materials, delivered a presentation and raised funding (5k RMB) for the project
+        * Designed experiments, assembled experiment setups (cultivated grass on a soil-bed experimental flume), collected sediment samples and measured sediment loads
+        * Wrote the experimental report, drafted research manuscripts, and made the final defense
 
 design:
   columns: '2'
