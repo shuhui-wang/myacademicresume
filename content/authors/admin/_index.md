@@ -45,7 +45,7 @@ Hi! Shuhui (淑慧) here. Thank you for visiting my website!
 
 I am a graduate student in Soil and water conservation engineering at Beijing Forestry University under the supervision of Prof. Yujie Wang and Prof. Yunqi Wang. My work involves using ML techniques to explore the relationships between environmental stressors and runoff, non-point source pollution, and to develop robust watershed management strategies resilient to climate change. 
 
-My recent studies have explored the characteristics of non-point source pollution using ML methods (Regression Tree, Clustering, etc.) and investigated non-linear relationships and potential thresholds that watershed managers should be aware of. Furthermore, a simulation-based optimization framework that includes a hydrological & water quality model (AnnAGNPS) and multi-objective optimization algorithm (MOEAs) was developed to make cost-effective watershed management strategies, where the performance of several advanced MOEAs were evaluated.
+My recent studies have explored the characteristics of non-point source pollution using ML methods (Regression Tree, Clustering, Feature Selection etc.) and investigated non-linear relationships and potential thresholds that watershed managers should be aware of. Furthermore, a simulation-based optimization framework that includes a hydrological & water quality model (AnnAGNPS) and multi-objective optimization algorithm (MOEAs) was developed to make cost-effective watershed management strategies, where the performance of several advanced MOEAs were evaluated.
 
 During my undergraduate years, I focused on the spatiotemporal heterogeneity of runoff and sediment loads in the Three Gorges Reservoir Region in China.
 
