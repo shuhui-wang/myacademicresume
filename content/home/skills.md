@@ -34,6 +34,7 @@ feature:
 - icon: flask
   icon_pack: fas
   name: Laboratory experiment
+
 - icon: :computer:
   icon_pack: emoji
   name: Team work
