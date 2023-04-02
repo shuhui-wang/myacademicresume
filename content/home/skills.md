@@ -34,13 +34,13 @@ feature:
 - icon: flask
   icon_pack: fas
   name: Laboratory experiment
-- icon: comments
+- icon: group
   icon_pack: fas
   name: Team work
-- icon: envelope
+- icon: comments
   icon_pack: fas
   name: Communicaiton skills
-- icon: phone
+- icon: tasks
   icon_pack: fas
   name: Attention to detail
   
