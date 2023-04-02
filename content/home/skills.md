@@ -34,7 +34,7 @@ feature:
 - icon: flask
   icon_pack: fas
   name: Laboratory experiment
-- icon: group
+- icon: users
   icon_pack: fas
   name: Team work
 - icon: comments
