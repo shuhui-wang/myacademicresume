@@ -40,8 +40,8 @@ feature:
 - icon: envalope
   icon_pack: fas
   name: Communicaiton skills
-- icon: :mag:
-  icon_pack: emoji
+- icon: fa-phone
+  icon_pack: fas
   name: Attention to detail
   
 
