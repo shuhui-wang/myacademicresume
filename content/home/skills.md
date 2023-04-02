@@ -33,7 +33,7 @@ feature:
   name: Presentation
 - icon: flask
   icon_pack: fas
-  name: Experiments
+  name: Laboratory experiment
 - icon: :computer:
   icon_pack: emoji
   name: Team work
