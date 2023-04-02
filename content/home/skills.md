@@ -34,6 +34,16 @@ feature:
 - icon: flask
   icon_pack: fas
   name: Experiments
+- icon: :computer:
+  icon_pack: emoji
+  name: Team work
+- icon: :woman_technologist:
+  icon_pack: emoji
+  name: Communicaiton skills
+- icon: :mag:
+  icon_pack: emoji
+  name: Attention to detail
+  
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
