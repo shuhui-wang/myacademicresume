@@ -34,12 +34,11 @@ feature:
 - icon: flask
   icon_pack: fas
   name: Laboratory experiment
-
-- icon: :computer:
-  icon_pack: emoji
+- icon: comments
+  icon_pack: fas
   name: Team work
-- icon: :woman_technologist:
-  icon_pack: emoji
+- icon: envalope
+  icon_pack: fas
   name: Communicaiton skills
 - icon: :mag:
   icon_pack: emoji
