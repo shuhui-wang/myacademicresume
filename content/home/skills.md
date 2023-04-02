@@ -37,10 +37,10 @@ feature:
 - icon: comments
   icon_pack: fas
   name: Team work
-- icon: envalope
+- icon: envelope
   icon_pack: fas
   name: Communicaiton skills
-- icon: fa-phone
+- icon: phone
   icon_pack: fas
   name: Attention to detail
   
