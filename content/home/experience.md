@@ -31,13 +31,13 @@ experience:
     date_end: '2023-05-31'
     description: |2-
       
-      Responsibilities：
+      Main Responsibilities：
       
         
         * Participated in the soil and water conservation planning: earthwork calculation, introduction to the planning basis (regulations, technical standards, etc.) and project area (natural conditions, socioeconomic situation, soil and water loss and conservation) in the project.
         * Prepared materials for submission to granting agencies and foundations
         * Managed and responded to project related email, prepared, maintained and updated website materials
-        * Attended project meetings and area seminars, wrote meeting minutes，summarized project results and prepared reports, presentations and other materials.
+        * Attended project meetings and area seminars, summarized results and prepared reports, presentations and other materials.
         * Performed miscellaneous job-related duties as assigned
 
  
