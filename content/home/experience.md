@@ -26,7 +26,7 @@ experience:
 
   - title: Entry-level Employee
     company: Gansu Zhiguang Engineering Survey and Design Co., Ltd.
-    location: Gansu
+    location: Gansu, online
     date_start: '2022-09-01'
     date_end: '2023-05-31'
     description: |2-
