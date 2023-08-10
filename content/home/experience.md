@@ -23,21 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Research Assistant
-    company: Beijing Forestry University
-    location: Beijing
-    date_start: '2022-07-01'
-    date_end: '2023-03-31'
+
+ - title: Entry-level Employee
+    company: Gansu Zhiguang Engineering Survey and Design Co., Ltd.
+    location: Gansu
+    date_start: '2022-09-01'
+    date_end: '2023-05-31'
     description: |2-
       
       Responsibilities：
       
+        
+        * Participated in the soil and water conservation planning: earthwork calculation, introduction to the planning basis (regulations, technical standards, etc.) and project area (natural conditions, socioeconomic situation, soil and water loss and conservation) in the project.
         * Prepared materials for submission to granting agencies and foundations
         * Managed and responded to project related email, prepared, maintained and updated website materials
-        * Supervised international graduate students and undergraduate students working on the research project (maintaining records on assignment completion, acting as liaison/mediator between the students and the faculty researcher)
-        * Attended project meetings and area seminars, wrote meeting minutes，summarized project results and prepared progress reports, presentations and other articles
-        * Monitored the project budget
+        * Attended project meetings and area seminars, wrote meeting minutes，summarized project results and prepared reports, presentations and other materials.
         * Performed miscellaneous job-related duties as assigned
+
  
   - title: Full-time Student Researcher
     company: National Key R&D Program of China (2017YFC0505303)
