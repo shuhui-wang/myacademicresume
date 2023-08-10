@@ -26,7 +26,7 @@ experience:
 
   - title: Entry-level Employee
     company: Gansu Zhiguang Engineering Survey and Design Co., Ltd.
-    location: Gansu, online
+    location: Lanzhou(Gansu); online
     date_start: '2022-09-01'
     date_end: '2023-05-31'
     description: |2-
@@ -44,7 +44,7 @@ experience:
   - title: Full-time Student Researcher
     company: National Key R&D Program of China (2017YFC0505303)
     company_url: ''
-    location: Beijing, Chongqing, Hubei
+    location: Beijing; Chongqing; Yichang(Hubei)
     date_start: '2018-11-01'
     date_end: '2022-06-30'
     description: |2-
