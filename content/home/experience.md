@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
 
- - title: Entry-level Employee
+ - title: Entrylevel Employee
     company: Gansu Zhiguang Engineering Survey and Design Co., Ltd.
     location: Gansu
     date_start: '2022-09-01'
