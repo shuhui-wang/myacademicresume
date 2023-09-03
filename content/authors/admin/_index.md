@@ -41,7 +41,7 @@ social:
   icon_pack: fab
   link: https://github.com/shuhui-wang
 superuser: true
-title: Shuhui Wang
+title: Shuhui (Jesse) Wang
 ---
 
 Hi! Shuhui (淑慧) is here. Thank you for visiting my website!
