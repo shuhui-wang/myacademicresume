@@ -21,13 +21,13 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: shuhuiwang1005@gmail.com
-address:
-  street: NO.35 East Qinghua Road
-  city: Beijing
-  region: Haidian District
-  postcode: '100083'
-  country: China
-  country_code: CN
+address: Department of Earth, Environmental and Geographic Sciences, Irving K. Barber School of Arts and Sciences
+
+  street: 1177 Research Road
+  city: Kelowna
+  postcode: BC V1V 1V7
+  country: Canada
+  country_code: +1
 coordinates:
   latitude: '40.00067'
   longitude: '116.339'
