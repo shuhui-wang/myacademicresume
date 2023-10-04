@@ -46,7 +46,7 @@ title: Shuhui Wang
 
 Hi! Shuhui (淑慧) is here. Thank you for visiting my website!
 
-I am currently a PhD student in Earth and Environmental Sciences at UBCO and my supervisor is Prof. Adam Wei. My research topic during the PhD program is exploring the hydrological responses to wildfire at the watershed scale in British Columbia, Canada.
+I am a PhD student in Earth and Environmental Sciences at UBCO, and my supervisor is Prof. Xiaohua (Adam) Wei. During the PhD program, I will emphasize on the research that explore the hydrological responses to wildfire at the watershed scale in British Columbia, Canada.
 
 During the graduate program, my work involves exploring the characteristics of non-point source pollution using ML methods (Regression Tree, Clustering, Feature Selection, etc.) and investigating the non-linear relationships and potential thresholds that watershed managers should be aware of. Furthermore, a simulation-based optimization framework that includes a hydrological & water quality model (AnnAGNPS) and multi-objective optimization algorithm (MOEAs) was developed to make cost-effective watershed management strategies, where the performance of several advanced MOEAs were evaluated.
 
