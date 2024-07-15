@@ -2,7 +2,7 @@
 bio: My study interests are 1) Machine Learning and Data Mining in Geosciences & remote sensing (e.g., simulation-based optimization framework, fuzzy programming, surrogate modeling); 2) Development of robust watershed management strategies and decision support; 3）Hydrological responses to LULC, human activities and climate change; 4) Hydrological/ waters quality (HWQ) models
 education:
   courses:
-  - course: PhD Candidate in Earth and Environmental Science
+  - course: PhD Student in Earth and Environmental Science
     institution: The University of British Columbia - Okanagan Campus
     year: September 2023- 
   - course: MSc in Soil and Water Conservation Engineering
@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: The University of British Columbia - Okanagan Campus
   url: https://ok.ubc.ca/
-role: PhD Candidate
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
