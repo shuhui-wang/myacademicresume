@@ -57,4 +57,4 @@ During my undergraduate years, I focused on the spatiotemporal heterogeneity of 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my CV: {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
