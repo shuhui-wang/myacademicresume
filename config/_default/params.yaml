@@ -31,12 +31,12 @@ coordinates:
   latitude: '49.9394'
   longitude: '240.6052'
 
-contact_links:
+# contact_links:
 
-  - icon: skype
-    icon_pack: fab
-    name: Skype Link
-    link: 'https://join.skype.com/invite/rXednPbeT7Ao'
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Link
+#     link: 'https://join.skype.com/invite/rXednPbeT7Ao'
  
  
 
